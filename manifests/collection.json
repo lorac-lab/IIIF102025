@@ -1,0 +1,13 @@
+{
+  "id" : "https://lorac-lab.github.io/IIIF102025/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in lorac-lab/IIIF102025 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://lorac-lab.github.io/IIIF102025/manifests/manifest2.json",
+    "label" : "IIIF Workshop 2025"
+  } ]
+}
